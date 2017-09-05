@@ -7,3 +7,14 @@ c:\users\emily\documents\visual studio 2017\Projects\TextEditorProject\TextEdito
 c:\users\emily\documents\visual studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.csproj.GenerateResource.Cache
 c:\users\emily\documents\visual studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.exe
 c:\users\emily\documents\visual studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.pdb
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\bin\Debug\TextEditorProject.exe.config
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\bin\Debug\TextEditorProject.exe
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\bin\Debug\TextEditorProject.pdb
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.Form1.resources
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.Properties.Resources.resources
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.csproj.GenerateResource.Cache
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.exe
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.pdb
+E:\Visual Studio 2017\Projects\TextEditorProject\TextEditorProject\obj\Debug\TextEditorProject.FindReplaceControl.resources
